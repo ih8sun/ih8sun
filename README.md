@@ -10,10 +10,6 @@
 # 📊 GitHub Stats:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ih8sun&" alt="ih8sun" /></p>
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ih8sun&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ih8sun&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
